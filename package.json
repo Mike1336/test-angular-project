@@ -1,0 +1,21 @@
+{
+  "name": "test-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "sudo ng serve",
+    "build": "sudo ng build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mike1336/test-angular-project.git"
+  },
+  "author": "Mike1336",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mike1336/test-angular-project/issues"
+  },
+  "homepage": "https://github.com/Mike1336/test-angular-project#readme"
+}
