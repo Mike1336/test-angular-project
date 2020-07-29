@@ -8,7 +8,7 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "newc": "ng g c heroes"
+    "newc": "ng g c hero-detail"
   },
   "private": true,
   "dependencies": {
