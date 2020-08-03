@@ -23,7 +23,7 @@
         "names": [],
         "mappings": "AAAA,8EAAA",
         "file": "styles.scss",
-        "sourcesContent": ["/* You can add global styles to this file, and also import other style files */\r\n"]
+        "sourcesContent": ["/* You can add global styles to this file, and also import other style files */\n"]
       }]); // Exports
 
       module.exports = exports;
@@ -464,7 +464,7 @@
     /***/
     function _(module, exports, __webpack_require__) {
       module.exports = __webpack_require__(
-      /*! C:\Users\Mike\Desktop\test-angular-project\src\styles.scss */
+      /*! /home/max/Документы/angular-tour-of-heroes/src/styles.scss */
       "./src/styles.scss");
       /***/
     }
